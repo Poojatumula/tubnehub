@@ -1,0 +1,17 @@
+body{
+		background-image:url(https://tse2.mm.bing.net/th?id=OIP.p_CyvZD1IsjFRMa9j1KInAHaHa&pid=Api&P=0&w=300&h=300);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	    background-attachment: fixed;
+	    color:BLACK;
+	}
+form{
+	text-align: center;
+	font-size:30px;
+	color:black;
+	font-style:bold;
+}
+h1{ 
+	color:rgb(94, 1, 80);
+	text-align: center;
+}
